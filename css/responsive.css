@@ -1,0 +1,208 @@
+
+
+@media only screen and (min-width: 992px) and (max-width: 1199px) {}
+@media (min-width: 768px) and (max-width: 991px) {
+	#mainNav {
+		background-color: #ffe2b3;
+	}
+	.navbar-dark .navbar-brand{
+		width: 55%;
+	}
+	.navbar-dark .navbar-nav .nav-link::after{
+		display: none;
+	}
+	.navbar-dark .navbar-toggler{
+		color: rgba(255,255,255);
+		border-color: rgba(255,255,255);
+	}
+	.heading h1{
+		font-size: 28px;
+	}
+	.heading p{
+		font-size: 14px;
+	}
+	.cd-headline.clip span{
+		font-size: 20px;
+	}
+	.section-title h3{
+		font-size: 28px;
+	}
+	.section-title p{
+		font-size: 14px;
+	}
+	#clouds{
+		margin-top: -35%;
+	}
+	.message-box{
+		margin-bottom: 30px;
+	}
+	.filter-button-group button{
+		padding: 12px 27px;
+	}
+	.filter-button-group{
+		text-align: center !important;
+	}
+	.post-box{
+		margin-bottom: 30px;
+	}
+	.footer-distributed .footer-left{
+		text-align: center;
+	}
+	.col-md-4{
+		width: 100%;
+		align-items: center !important;
+		justify-content: center !important;
+	}
+	.skill{
+		width: 50%;
+		float: center;
+		align-items: center !important;
+		justify-content: center !important;
+	}
+	.skills-2{
+		margin-left: 180px;
+	}
+	.contacto-for{
+		width: 100%;
+		text-align: center !important;
+		align-items: center !important;
+		justify-content: center !important;
+	}
+}
+@media (max-width: 767px) {
+	#mainNav {
+		background-color: #ffe2b3;
+	}
+	.navbar-dark .navbar-brand{
+		width: 55%;
+	}
+	.navbar-dark .navbar-nav .nav-link::after{
+		display: none;
+	}
+	.navbar-dark .navbar-toggler{
+		color: rgba(255,255,255);
+		border-color: rgba(255,255,255);
+	}
+	.heading h1{
+		font-size: 28px;
+	}
+	.heading p{
+		font-size: 14px;
+	}
+	.cd-headline.clip span{
+		font-size: 20px;
+	}
+	.section-title h3{
+		font-size: 28px;
+	}
+	.section-title p{
+		font-size: 14px;
+	}
+	#clouds{
+		margin-top: -35%;
+	}
+	.message-box{
+		margin-bottom: 30px;
+	}
+	.filter-button-group button{
+		padding: 12px 27px;
+	}
+	.filter-button-group{
+		text-align: center !important;
+	}
+	.post-box{
+		margin-bottom: 30px;
+	}
+	.footer-distributed .footer-left{
+		text-align: center;
+	}
+	.col-md-4{
+		width: 100%;
+		align-items: center !important;
+		justify-content: center !important;
+	}
+	.skill{
+		width: 50%;
+		float: center;
+		align-items: center !important;
+		justify-content: center !important;
+	}
+	.skills-2{
+		margin-left: 180px;
+	}
+	.contacto-for{
+		width: 100%;
+		text-align: center !important;
+		align-items: center !important;
+		justify-content: center !important;
+	}
+}
+@media only screen and (min-width: 280px) and (max-width: 599px) {
+	#mainNav {
+		background-color: #ffe2b3;
+	}
+	.navbar-dark .navbar-brand{
+		width: 55%;
+	}
+	.navbar-dark .navbar-nav .nav-link::after{
+		display: none;
+	}
+	.navbar-dark .navbar-toggler{
+		color: rgba(255,255,255);
+		border-color: rgba(255,255,255);
+	}
+	.heading h1{
+		font-size: 28px;
+	}
+	.heading p{
+		font-size: 14px;
+	}
+	.cd-headline.clip span{
+		font-size: 20px;
+	}
+	.section-title h3{
+		font-size: 28px;
+	}
+	.section-title p{
+		font-size: 14px;
+	}
+	#clouds{
+		margin-top: -35%;
+	}
+	.message-box{
+		margin-bottom: 30px;
+	}
+	.filter-button-group button{
+		padding: 12px 27px;
+	}
+	.filter-button-group{
+		text-align: center !important;
+	}
+	.post-box{
+		margin-bottom: 30px;
+	}
+	.footer-distributed .footer-left{
+		text-align: center;
+	}
+	.col-md-4{
+		width: 100%;
+		align-items: center !important;
+		justify-content: center !important;
+	}
+	.skill{
+		width: 50%;
+		float: center;
+		align-items: center !important;
+		justify-content: center !important;
+	}
+	.skills-2{
+		max-width: 100%;
+	}
+	.contacto-for{
+		width: 100%;
+		text-align: center !important;
+		align-items: center !important;
+		justify-content: center !important;
+	}
+	
+}
