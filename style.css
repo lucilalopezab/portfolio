@@ -488,7 +488,7 @@ a img.aligncenter {
     opacity: .6;
 }
 .heading{
-    color: #fcb158;
+        color: #fcb158;
 	display: table-cell;
 	vertical-align: middle;
 	position: relative;
