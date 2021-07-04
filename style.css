@@ -489,7 +489,6 @@ a img.aligncenter {
 }
 .heading{
     color: #fcb158;
-	background: linear-gradient(to bottom, blue, white 80%, orange)
 	display: table-cell;
 	vertical-align: middle;
 	position: relative;
