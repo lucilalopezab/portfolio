@@ -488,7 +488,8 @@ a img.aligncenter {
     opacity: .6;
 }
 .heading{
-        color: #fcb158;
+    color: #fcb158;
+	background: linear-gradient(to bottom, blue, white 80%, orange)
 	display: table-cell;
 	vertical-align: middle;
 	position: relative;
@@ -532,9 +533,7 @@ a img.aligncenter {
 }
 
 /* -------------------------------- 
-
 xclip 
-
 -------------------------------- */
 .cd-headline.clip span {
   display: inline-block;
