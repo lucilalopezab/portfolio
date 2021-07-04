@@ -483,13 +483,13 @@ a img.aligncenter {
     bottom: 0;
     left: 0;
     right: 0;
-    background-color: #ffe2b3;
+    background: linear-gradient(to bottom, #ffe2b3, #ffc05c);
     z-index: 0;
     opacity: .6;
 }
 .heading{
     color: #fcb158;
-	background: linear-gradient(to bottom, blue, white 80%, orange)
+	
 	display: table-cell;
 	vertical-align: middle;
 	position: relative;
